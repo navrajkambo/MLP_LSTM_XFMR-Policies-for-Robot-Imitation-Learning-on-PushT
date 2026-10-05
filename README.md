@@ -1,0 +1,2 @@
+# MLP_LSTM_XFMR-Policies-for-Robot-Imitation-Learning-on-PushT
+We propose to study how the choice of neural network changes the quality of a robot policy learned from human demonstrations (imitation learning). Using the public PushT dataset (a pusher moves a T-shaped block onto a target), we will train three policies that map recent observations to actions: MLP, LSTM RNN, and a small Transformer. UBC EECE 568
